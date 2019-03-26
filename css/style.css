@@ -212,7 +212,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	-o-background-size: cover;
 }
 .intro .overlay {
-	padding: 100px 0;
+	padding: 70px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
 	background: -moz-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
@@ -224,7 +224,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 }
 /* a-propos Section */
 #a-propos {
-	padding: 100px 0;
+	padding: 70px 0;
 	background: #f6f6f6;
 }
 #a-propos .a-propos-text {
@@ -241,7 +241,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d96b4da8', e
 }
 /* Skills Section old */
 #skills {
-	padding: 100px 0;
+	padding: 70px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100 */
 	background: rgb(107,77,168); /* Old browsers */
 	background: -moz-linear-gradient(left, rgba(107,77,168,1) 0%, rgba(73,119,194,1) 100%); /* FF3.6-15 */
@@ -291,7 +291,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 }
 /* Skills Section new language in cercle*/
 #competences {
-	padding: 100px 0;
+	padding: 70px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100 */
 	background: rgb(107,77,168); /* Old browsers */
 	background: -moz-linear-gradient(left, rgba(107,77,168,1) 0%, rgba(73,119,194,1) 100%); /* FF3.6-15 */
@@ -348,7 +348,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	background:#fff;
 }
 .myexperties .container{
-	padding-top:67px ;
+	padding-top:70px ;
 	padding-bottom:0 ;
 	margin-bottom:-20px;
 }
@@ -393,14 +393,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	background:#f8f8f8;
 }
 .educationdiploma .container{
-	padding-top:65px ;
+	padding-top:70px ;
 	padding-bottom:0 ;
 	margin-bottom:-20px;
 }
 
 /* Portfolio Section */
 #portfolio {
-	padding: 100px 0;
+	padding: 70px 0;
 	background: #f6f6f6;
 }
 .categories {
@@ -528,7 +528,7 @@ ol.type li a:hover {
 }
 /* Achivements Section */
 #achievements {
-	padding: 100px 0;
+	padding: 70px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100 */
 	background: rgb(107,77,168); /* Old browsers */
 	background: -moz-linear-gradient(left, rgba(107,77,168,1) 0%, rgba(73,119,194,1) 100%); /* FF3.6-15 */
@@ -559,7 +559,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 }
 /* Testimonials Section */
 #testimonials {
-	padding: 100px 0;
+	padding: 70px 0;
 	background: #F6F6F6;
 }
 #testimonials blockquote {
@@ -592,7 +592,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6b4da8', end
 	-o-background-size: cover;
 }
 #contact .overlay {
-	padding: 100px 0 40px 0;
+	padding: 70px 0 40px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#6b4da8+0,4977c2+100&0.85+0,0.85+100 */
 	background: -moz-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* FF3.6-15 */
 	background: -webkit-linear-gradient(left, rgba(107,77,168,0.85) 0%, rgba(73,119,194,0.85) 100%); /* Chrome10-25,Safari5.1-6 */
