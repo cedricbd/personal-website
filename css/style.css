@@ -19,7 +19,7 @@ h2 {
 	color: #444;
 	font-weight: 400;
 	margin-bottom: 30px;
-	font-size: 34px;
+	/* font-size: 34px; */
 	text-transform: uppercase; 
 }
 h3, h4 {
@@ -702,6 +702,8 @@ color: #2c3e50;
 
 /* Media Queries */
 @media(min-width:768px) {
+
+	
 .intro {
 	height: 100%;
 	padding: 0;
